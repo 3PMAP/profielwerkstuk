@@ -1,3 +1,5 @@
+![pws](img/screenshot.png)
+
 # profielwerkstuk
 This repo contains the markdown source files for our paper. It's written in markdown, though heavenly injected with LaTeX. 
 This is because we use [pandoc](http://pandoc.org) for converting: markdown -> LaTeX -> pdf.
@@ -8,7 +10,3 @@ This repo:
 - **`bib/`**. Here is the bibtex file. Also a csl file for apa style.
 - `img/` contains all images.
 - [prothesehand.pdf](https://github.com/3PMAP/profielwerkstuk/blob/master/prothesehand.pdf) is the output file. The result. El resultado. Exitus.
-
-
-
-![pws](img/screenshot.png)
