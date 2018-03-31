@@ -11,4 +11,4 @@ This repo:
 
 
 
-![pws](screenshot.png)
+![pws](img/screenshot.png)
