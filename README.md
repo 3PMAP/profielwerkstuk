@@ -19,4 +19,4 @@ This repo:
 - Terminal: `bash create`
 
 
-1. In terminal: git clone git://github.com/3PMAP/profielwerkstuk.git or via Github Desktop.
+1. In terminal: `git clone git://github.com/3PMAP/profielwerkstuk.git` or clone via Github Desktop.
