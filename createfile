@@ -1,0 +1,35 @@
+#!/usr/bin/env bash
+
+# 'Inhoudsopgave' e.d.
+language="-V lang=nl"
+
+# automatically number sections. e.g.: 1 Inleiding
+autonumber="--number-sections"
+
+# Handles figure numbering
+pandoc_fignos="--filter pandoc-fignos"
+
+# creates the bibliography part of
+bibliography="--bibliography bib/ref.bib"
+csl="--csl=bib/tijdschrift-voor-psychotherapie.csl"
+
+output="-o prothesehand.pdf"
+
+source="""-s
+00_voorblad.md \
+  01_inleiding.md \
+  02_hedendaagseprotheses.md \
+  03_anatomievandehand.md \
+  04_materialenensoftware.md \
+  05_intermedian.md \
+  06_ontwerpenenprinten.md \
+  07_elektronica.md \
+  08_programmeren.md \
+  09_conclusieendiscussie.md \
+  10_bijlagereferenties.md
+"""
+
+
+# call the function
+pandoc ${language} ${autonumber} ${pandoc_fignos} \
+       ${bibliography} ${csl} ${output} ${source}

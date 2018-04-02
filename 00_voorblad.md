@@ -2,7 +2,8 @@
 fignos-cleveref: On
 fignos-plus-name: Fig.
 header-includes: \usepackage{caption}
-bibliography: ref.bib
+bibliography: /bib/ref.bib
+csl: /bib/tijdschrift-voor-psychotherapie.csl
 ...
 
 \begin{titlepage}

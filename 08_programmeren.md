@@ -7,7 +7,7 @@ Wij hebben ervoor gekozen om de Arduino IDE niet te gebruiken in ons ontwikkelpr
 
 ![Autocomplete-arduino package](img/image_25.png){ #fig:autocomplete width=43% }
 
-Toch miste Atom een aantal belangrijke functies voor gebruik bij robotica projecten. Zo is er geen seriële monitor (voor de tekst output van de Arduino), geen compiler (de arduino-code omzetten in C++ code) en is het niet mogelijk direct te builden en uploaden vanuit Atom. Dit zou betekenen dat je eerst alle code in de Arduino IDE zou moeten plakken, om het vanuit daar te uploaden. Gelukkig is hier een package voor, genaamd PlatformIO. Dit voegt al deze functies, en nog veel meer, toe aan Atom. Hier is nog een kleine toevoeging voor nodig, voor het builden en uploaden naar de Arduino (Fatsi, 2015). Dit is mogelijk als de Arduino is aangesloten en de computer hem herkent. Bij dit proces wordt de code vanaf de computer naar de Arduino geladen.
+Toch miste Atom een aantal belangrijke functies voor gebruik bij robotica projecten. Zo is er geen seriële monitor (voor de tekst output van de Arduino), geen compiler (de arduino-code omzetten in C++ code) en is het niet mogelijk direct te builden en uploaden vanuit Atom. Dit zou betekenen dat je eerst alle code in de Arduino IDE zou moeten plakken, om het vanuit daar te uploaden. Gelukkig is hier een package voor, genaamd PlatformIO. Dit voegt al deze functies, en nog veel meer, toe aan Atom. Hier is nog een kleine toevoeging voor nodig, voor het builden en uploaden naar de Arduino @fatsi2015. Dit is mogelijk als de Arduino is aangesloten en de computer hem herkent. Bij dit proces wordt de code vanaf de computer naar de Arduino geladen.
 
 Nu is Atom helemaal klaar voor ons project, met volledige functionaliteit.
 
