@@ -17,7 +17,7 @@ Bij het ontwerp hebben we ook rekening gehouden met de verhouding van Fibonacci,
 
 Na het printen van een deel van de vingers of van de palm zagen wij steeds weer nieuwe leermomenten. Nadat wij deze dan fouten hadden gezien gingen wij bespreken hoe wij het dan beter hadden kunnen doen of welke printinstellingen wij moesten veranderen. Hierdoor ontwikkelde ons ontwerp steeds meer met de tijd en hebben wij uiteindelijk ons uiteindelijke product kunnen ontwerpen en printen.
 
-Op de plek waar alle vingers bij elkaar komen, de handpalm, trad een nieuw probleem op. Je kan immers niet de binnenste twee vingers vastzetten, aangezien het koppelstuk van de buitenste twee vingers hierbij in de weg zat. Om deze 2 te kunnen plaatsen moesten wij een schuifmechanisme bedenken dat stevig genoeg zou zijn dat het niet los zou schieten, maar ook makkelijk te verwijderen is, aangezien je alleen op deze manier de vingers aan de knokkels vast kon maken met een pin.
+Op de plek waar alle vingers bij elkaar komen, de handpalm, trad een nieuw probleem op. Je kan immers niet de binnenste twee vingers vastzetten, aangezien het koppelstuk van de buitenste twee vingers hierbij in de weg zat. Om deze twee te kunnen plaatsen moesten wij een schuifmechanisme bedenken dat stevig genoeg zou zijn dat het niet los zou schieten, maar ook makkelijk te verwijderen is, aangezien je alleen op deze manier de vingers aan de knokkels vast kon maken met een pin.
 
 ![Palm van onderen met vertoning knokkelschuifjes](img/image_20.png){ #fig:palm width=44%}
 

@@ -9,12 +9,12 @@ De menselijke hand wordt gekenmerkt door opponeerbare duimen, wat betekent dat m
 ## Beenderen
 De hand bestaat wel uit 27 kleine botjes @natuurinformatie. De botjes zorgen ervoor dat de handen, en met name de vingers ervan, erg beweegbaar zijn. De duim kan wel 90 graden worden gedraaid, in tegenstelling tot de andere vingers. Deze kunnen ongeveer 45 graden worden gedraaid.
 
-De onderarm eindigt met de ellepijp en het spaakbeen. Hier gaat het over naar de pols, deze bestaat uit acht handwortelbeentjes. Hier zijn alle vingers aan bevestigd. Boven de handwortelbeentjes, in de middenhand, bevinden zich de middenhandsbeentjes. Dit maakt de pols beweegbaar, zodat het makkelijker is om voorwerpen vast te grijpen. De vingers bestaan uit vingerkootjes. Bij elke vinger zijn dit er drie, behalve de duim, deze heeft er twee. Hierdoor is een vinger in drie delen te krommen. In de geneeskunde en anatomie worden deze vingers vaak aangeduid met romeinse cijfers. Dit loopt van digitus I (de duim) tot digitus V (de pink) @alpenfels1955.
+De onderarm eindigt met de ellepijp en het spaakbeen. Hier gaat het over naar de pols, deze bestaat uit acht handwortelbeentjes. Hier zijn alle vingers aan bevestigd. Boven de handwortelbeentjes, in de middenhand, bevinden zich de middenhandsbeentjes. Dit maakt de pols beweegbaar, zodat het makkelijker is om voorwerpen vast te grijpen. De vingers bestaan uit vingerkootjes. Bij elke vinger zijn dit er drie, behalve de duim, deze heeft er twee. Hierdoor is een vinger in drie delen te krommen. In de geneeskunde en anatomie worden deze vingers vaak aangeduid met romeinse cijfers. Dit loopt van digitus I (de duim) tot digitus V (de pink), zoals ook gebruikt in @alpenfels1955.
 
 ## Spieren en pezen
-De spieren in de hand worden verdeeld onder twee soorten: de intrinsieke en extrinsieke banden. Intrinsieke banden zijn kort en stijf en bevinden zich vooral in de handpalm. Deze spieren hoeven namelijk niet sterk uit te rekken. Extrinsieke banden zijn soepeler en een stuk langer. Zij verbinden de onderarmbotten met de middenhandsbeentjes @mortele2009. Wanneer deze worden aangespannen, buigen de vingers.
+De spieren in de hand worden verdeeld onder twee soorten: de intrinsieke en extrinsieke banden. Intrinsieke banden zijn kort en stijf en bevinden zich vooral in de handpalm. Deze spieren hoeven namelijk niet sterk uit te rekken. Extrinsieke banden zijn soepeler en een stuk langer. Zij verbinden de onderarmbotten met de middenhandsbeentjes , @mortele2009. Wanneer deze worden aangespannen, buigen de vingers.
 
-Ook bevindt het CMC-gewricht zich in de hand. Dit gewricht maakt het mogelijk de duim in oppositie te bewegen, dit betekent dat de duim naar de pink wordt bewogen @oosterbos. Hierdoor kan men de duim in veel meer verschillende posities houden dan de andere vier vingers. Dit maakt de menselijke hand ook zo complex.
+Ook bevindt het CMC-gewricht , @oosterbos, zich in de hand. Dit gewricht maakt het mogelijk de duim in oppositie te bewegen, dit betekent dat de duim naar de pink wordt bewogen. Hierdoor kan men de duim in veel meer verschillende posities houden dan de andere vier vingers. Dit maakt de menselijke hand ook zo complex.
 
 In de hand bevinden zich ook pezen die het te ver terugbuigen van de vingers voorkomen. Als deze er niet waren, zouden de vingers makkelijk de verkeerde kant op buigen, hetgeen zorgt voor het scheuren van andere spieren.
 
@@ -27,11 +27,11 @@ De gouden ratio of gulden snede is een speciale wiskundige verdeling van een lij
 $$ \phi_{1} = \frac{1+\sqrt{5}}{2} \approx 1,618\dots $$
 @guldensnede
 
-Dit ratio blijkt massaal voor te komen in de natuur. De gouden ratio wordt door velen gezien als de meest esthetische verhouding in zowel kunst, natuur en design @osborn1999. In de natuur kan men denken aan de groente romanesco en verschillende bloemblaadjes.
+Dit ratio blijkt massaal voor te komen in de natuur. De gouden ratio wordt door velen gezien als de meest esthetische verhouding in zowel kunst, natuur en design, benoemd in @osborn1999. In de natuur kan men denken aan de groente romanesco en verschillende bloemblaadjes.
 
 ![Lijnstuk AB met punt S als gouden ratio](img/image_7.png){ #fig:lijn width=36% }
 
-Maar ook in de anatomie blijkt de gulden snede voor te komen. Bijvoorbeeld in de arm. Zie @fig:goudenanatomie. Onze vingers bestaan uit 3 delen. De eerste twee delen (blauwe B en C in figuur 7). Zijn in gouden ratio met de totale lengte van de vinger. Ook staan de middelvinger en pink in deze verhouding met elkaar. @murali2012
+Maar ook in de anatomie blijkt de gulden snede voor te komen. Bijvoorbeeld in de arm. Zie @fig:goudenanatomie. Onze vingers bestaan uit 3 delen. De eerste twee delen (blauwe B en C in figuur 7). Zijn in gouden ratio met de totale lengte van de vinger. Ook staan de middelvinger en pink in deze verhouding met elkaar. @murali2012.
 
 ![Gouden ratio in de anatomie](img/goudenanatomie.png){ #fig:goudenanatomie width=100% }
 
