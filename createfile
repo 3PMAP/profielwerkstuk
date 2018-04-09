@@ -18,8 +18,8 @@ output="-o prothesehand.pdf"
 source="""-s
 00_voorblad.md \
   01_inleiding.md \
-  02_hedendaagseprotheses.md \
-  03_anatomievandehand.md \
+  02_anatomievandehand.md \
+  03_hedendaagseprotheses.md \
   04_materialenensoftware.md \
   05_intermedian.md \
   06_ontwerpenenprinten.md \

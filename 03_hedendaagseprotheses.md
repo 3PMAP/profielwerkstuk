@@ -1,7 +1,7 @@
 \pagebreak
 # Hedendaagse protheses
-Protheses zijn een erg goede vervanging voor ledematen die zijn beschadigd bij mensen of zelfs missen. Dit geldt voor erg veel delen van het lichaam, die elk kort zullen worden behandeld.
-Er bestaan verschillende soorten protheses. Van simpele nabootsingen van het desbetreffende ledemaat tot volledig robotisch aangedreven protheses. Voor organen bestaan er ook protheses, dit worden meestal implantaten genoemd, omdat de prothese helemaal is weggewerkt in het lichaam.
+Een prothese is een kunstmatige vervanging van een of meerdere beschadigde of missende ledematen.
+Er bestaan verschillende soorten protheses, van simpele nabootsingen van het desbetreffende ledemaat tot volledig robotisch aangedreven protheses. Voor organen bestaan er ook protheses, dit worden meestal implantaten genoemd, omdat de prothese helemaal is weggewerkt in het lichaam. Een aantal verschillende protheses zullen hier besproken worden, om een indruk te wekken van het belang van protheses in de zorg.
 
 ## Soorten Protheses
 Je hebt veel verschillende soorten protheses, bijvoorbeeld een beenprothese, borstprothese, armprothese, oogprothese, voetprothese en handprothese. Ook zijn er hele bekende protheses, die in de volksmond geen protheses meer worden genoemd. Denk aan een gehoorprothese (gehoorapparaatje), een oogprothese (bril of lenzen) en tandprotheses (kunstgebit). Elk van de eerdergenoemde protheses heeft een ander doel en worden dus ook op een andere manier gemaakt, en meestal ook met andere materialen.

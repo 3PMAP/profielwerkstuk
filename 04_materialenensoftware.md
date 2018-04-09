@@ -1,9 +1,9 @@
 \pagebreak
 # Materialen en software
-Een hand is erg complex. Een nabootsing van een hand kost dan ook onwijs veel tijd, energie en materialen om te maken. Bij het maken van een prothese moet er veel rekening worden gehouden met de materiaalkeuze. Ook is het beperken van de onderdelen belangrijk.
+Een hand is anatomisch gezien een complex ledemaat. Een nabootsing van een hand kost dan ook onwijs veel tijd, energie en materialen om te maken. Bij het maken van een prothese moet er veel rekening worden gehouden met de materiaalkeuze. Wij zullen de opties voor de materialen aan de binnen- en buitenkant van de hand en de opties voor software toelichten.
 
 ## Materialen aan de buitenkant van de hand
-Bij het kiezen van een printmateriaal, zijn er een paar overwegingen die er moeten worden gemaakt. Je wilt dat het materiaal sterk is. Het moet sterk genoeg zijn om niet zomaar kapot te gaan maar tegelijkertijd zacht genoeg dat je het nog wel bewerkbaar is. Ook moet het 3D printbaar zijn. Dit zijn best wat vereisten voor het materiaal. Het belangrijkste voor ons is dat het 3D printbaar is, omdat het doel is dat de prothese ge-3D-print wordt. De materialen hierin zijn beperkt. ABS is beter hittebestendig en sterker. Het enige nadeel is dat het moeilijker printen is. Volgens @chilson2013.
+Bij het kiezen van een printmateriaal, zijn er een paar overwegingen die er moeten worden gemaakt. Je wilt dat het materiaal sterk is. Het moet sterk genoeg zijn om niet zomaar kapot te gaan maar tegelijkertijd zacht genoeg dat je het nog wel bewerkbaar is. Ook moet het 3D printbaar zijn. Dit maakt de prothesehand beter toegankelijk. Dit zijn best wat vereisten voor het materiaal. Het belangrijkste voor ons is dat het 3D printbaar is, omdat het doel is dat de prothese ge-3D-print wordt. De materialen hierin zijn beperkt. ABS is beter hittebestendig en sterker. Het enige nadeel is dat het moeilijker printen is. Volgens @chilson2013.
 
 ![Het zichtbare verschil tussen PLA en ABS](img/image_10.png){ #fig:plaabs width=41%}
 
