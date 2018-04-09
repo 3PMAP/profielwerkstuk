@@ -32,8 +32,8 @@ De Arduino is daarentegen geen microcomputer, maar een microcontroller , dit ver
 
 Voor programmeren is een goede, functionele IDE erg handig. Dit is software om het ontwikkelen van software te vereenvoudigen. Een veelgemaakte keuze hiervoor is de Atom text editor , te vinden in de opsomming van @henry2014. Dit is enkel een text editor, maar door de vele packages die downloadbaar zijn, is Atom inmiddels volledig om te bouwen tot uitgebreide IDE. Atom is ontwikkeld door Github, en daarom ook volledig open source. Echter is Atom nog niet gebouwd voor microcontrollers, zoals de Arduino IDE is. Hiervoor zijn packages beschikbaar. PlatformIO, ontwikkeld door @kravets2017, is hier een van. Deze voegt verschillende tools en packages toe die het programmeren van een microcontroller een stuk makkelijker maken. Zo kan men builden (de code testen op fouten en omzetten naar C++) en uploaden (van de computer naar de geheugenkaart van de microcontroller plaatsen), rechtstreeks  vanuit Atom. Atom met deze package is te zien in @fig:atom.
 
-![Atom met PlatformIO package](img/image_15.png){ #fig:atom width=60%}
+![Atom met PlatformIO package](img/image_15.png){ #fig:atom width=50%}
 
 Het ontwerpen van 3D-afbeeldingen van de hand vereist ook speciale software. Hiervoor zijn er erg veel verschillende applicaties, de meest gebruikte zijn opgesomd in @duann2012. Zo zijn er computerapplicaties, maar ook webapplicaties. Deze applicaties hebben wat weg van Adobe Photoshop. Het zijn over het algemeen programma’s met veel tools, zoals te zien is in @fig:123d. Ook hebben deze programma’s vaak voorontworpen basisvormen, om het productieproces te versnellen. Het kunnen zowel desktop applicaties als webapps zijn. Een voorbeeld van een webapp hiervoor is Tinkercad. Het doel van Tinkercad is het ontwerpen van 3d-afbeeldingen zo eenvoudig mogelijk te maken. Tinkercad is dan ook geen complexe, professionele tool. Toch valt hier bijna alles mee te maken.  
 
-![Autodesk 123D software voor Windows](img/image_16.jpg){ #fig:123d width=70%}
+![Autodesk 123D software voor Windows](img/image_16.jpg){ #fig:123d width=60%}
