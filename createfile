@@ -32,4 +32,4 @@ source="""-s
 
 # call the function
 pandoc ${language} ${autonumber} ${pandoc_fignos} \
-       ${bibliography} ${csl} ${output} ${source}
+        ${bibliography} ${csl} ${output} ${source}

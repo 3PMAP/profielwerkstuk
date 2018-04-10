@@ -1,7 +1,4 @@
 \pagebreak
-# Referenties {.unnumbered}
-
-\pagebreak
 # Bijlage I {.unnumbered}
 ![Het uiteindelijke elektriciteitsschema gebruikt bij onze prothese](img/image_27_rot.png){ #fig:ee width=70% }
 
@@ -97,3 +94,6 @@ void middleFinger() {
   delay(100);
 }
 ```
+
+\pagebreak
+# Referenties {.unnumbered}
