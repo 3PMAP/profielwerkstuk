@@ -16,7 +16,7 @@ This repo:
 - Download or clone<sup>1</sup> this repo
 - [Install](https://pandoc.org/installing.html) pandoc and pandoc-citeproc
 - Terminal: Go to the folder 'profielwerkstuk' (`cd path/to/profielwerkstuk`)
-- Terminal: `bash create`
+- Terminal: `bash createfile` to create the pdf output
 
 
 1. In terminal: `git clone git://github.com/3PMAP/profielwerkstuk.git` or clone via Github Desktop.
