@@ -17,7 +17,7 @@ Jumper wires              | 1       | ong 3,50           | 3,50
 3D-printer filament       | 1 rol   | 22,50              | 22,50
 Totaalprijs prothesehand  | -       | -                  | 140,33
 
-De prothesehand heeft in totaal 136,13 euro gekost.
+De prothesehand heeft in totaal 140,33 euro gekost.
 Deze prijs is erg variabel. Zo kunnen er duurdere motoren worden gebruikt, zodat er meer kracht beschikbaar is. De keuze en hoeveelheid filament is ook zeer belangrijk voor de prijs en kan erg vari&#235;ren. De prijs van de spiersensor blijft echter zeer constant. Omdat hiervoor niet echt andere opties zijn, is deze aan de dure kant (bijna &#233;&#233;n derde van de totaalprijs).
 
 

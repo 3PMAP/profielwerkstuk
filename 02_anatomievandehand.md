@@ -22,7 +22,7 @@ In de hand bevinden zich ook pezen die het te ver terugbuigen van de vingers voo
 De hand is voorzien van drie gemengde zenuwen: de nervus ulnaris, nervus medianus en nervus radialis. Deze zenuwen sturen de spieren in de hand en onderarm aan. De zenuwen hebben alle drie zowel motorische (‘bewegende’) als sensibele (‘voelende’) functie. Deze sensibele functie laat een hoge haptische waarneming toe, wat betekent dat je erg veel kan voelen met de hand. Bijvoorbeeld druk-, bewegings- en vibratiestimulansen. De bloedtoevoer wordt verzorgd door twee slagaders: de arteria radialis en arteria ulnaris.
 
 ## Gouden ratio in de anatomie van de hand
-De gouden ratio of gulden snede is een speciale wiskundige verdeling van een lijnstuk. De gouden ratio is al vanaf de oudheid bestudeerd. Dit omdat het vaak in de natuur voor blijkt te komen. De gouden ratio op lijnstuk AB (@fig:lijn) met als de gouden ratio is te definiëren als:
+De gouden ratio of gulden snede is een speciale wiskundige verdeling van een lijnstuk. De gouden ratio is al vanaf de oudheid bestudeerd. Dit omdat het vaak in de natuur voor blijkt te komen. De gouden ratio op lijnstuk AB (@fig:lijn) met punt S als de gouden ratio is te definiëren als:
 
 $$ \phi_{1} = \frac{1+\sqrt{5}}{2} \approx 1,618\dots $$
 @guldensnede
